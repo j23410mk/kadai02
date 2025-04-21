@@ -1,10 +1,10 @@
 import random
-sum = 0
+sum = 0　#合計値の初期化
 for i in range(10):
     x = random.randint(1,6)
     print(str(i+1)+"回目："+str(x))
     sum = sum + x
-ave = sum / 10
+ave = sum / 10　#平均の算出
 print("平均値："+str(ave))
 # 期待される出力結果例
 """
