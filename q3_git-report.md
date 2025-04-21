@@ -1,6 +1,6 @@
 ## Gitのミニレポート
 ### Q3-1. Git同様のバージョン管理システムの1つにSubversionがある。Subversionの特徴および問題点を説明せよ。
-* 特徴
+* 特徴: Gitは分散型だが、Subversionは集中型である。
 * 問題点
 ### Q3-2. Subversionの問題点をGitではどのように解決しているか説明せよ。
 * Subversionの問題点
